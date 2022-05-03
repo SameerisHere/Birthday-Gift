@@ -31,7 +31,7 @@ let track_list = [
     name: "She's A Rainbow",
     artist: "The Rolling Stones",
     image: "https://www.udiscovermusic.com/wp-content/uploads/2019/08/Shes-A-Rainbow-Rolling-Stones.jpg",
-    path: "/Users/sameer/Desktop/Gift/She's a rainbow.mp3"
+    path: "/Users/mariahusain/Desktop/Gift/She's a rainbow.mp3"
   },
   {
     name: "You Send Me",

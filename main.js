@@ -25,7 +25,7 @@ let track_list = [
     name: "It's Always Sunny With You",
     artist: "{Parentheses}",
     image: "https://i.scdn.co/image/ab67616d0000b273afaf6006172a71414bfa4ee7",
-    path: "/Users/sameer/Desktop/Gift/Sunny.mp3"
+    path: "/Users/mariahusain/Desktop/Gift/Sunny.mp3"
   },
   {
     name: "She's A Rainbow",
